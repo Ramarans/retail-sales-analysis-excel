@@ -31,3 +31,8 @@ All tables use SUMIFS, COUNTIFS and AVERAGEIFS linked to the Data sheet, so they
 
 
 <img width="1740" height="1064" alt="pivot" src="https://github.com/user-attachments/assets/4ee01fa8-3c83-41b1-a379-68311636ca70" />
+
+
+
+<img width="1387" height="498" alt="insights" src="https://github.com/user-attachments/assets/91bb0738-6fe7-40aa-b142-bdabe42bc8a1" />
+
