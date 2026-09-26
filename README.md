@@ -13,3 +13,5 @@ Excel analysis of 35 retail orders: nested IF segmentation, pivot summaries, cha
   - *Rating Check* = Excellent / Good / Poor / Missing
   - *Customer Priority* = Key Customer / Win Back / Follow Up / Regular
 - **Colours:** red bold rows are lost orders, light blue rows are above-average sales, the rating column has a red-to-green colour scale, and Net Sales has data bars.
+
+<img width="1789" height="747" alt="data" src="https://github.com/user-attachments/assets/6e05c863-5491-4082-878b-3482b17d875b" />
